@@ -4,7 +4,6 @@ Ecommerce Website, for running on Azure VM (Windows), made in HTML5, CSS and wit
 This is copy of my own project for college and it's created after submisson on 06/04/2018.
 
 All pictures are taken from https://www.pexels.com/ and they are under Creative Commons Zero (CC0) license.
-Theme is from bootrstap and it is additionaly styled in CSS/LESS files.
 
 <a href="https://ibb.co/d4yP7H"><img src="https://preview.ibb.co/fjHvEx/1.png" alt="1" border="0"></a>
 <a href="https://ibb.co/hacHSH"><img src="https://preview.ibb.co/dNiD1c/2.png" alt="2" border="0"></a>
